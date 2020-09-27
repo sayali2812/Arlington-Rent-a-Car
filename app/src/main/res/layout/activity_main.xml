@@ -26,7 +26,7 @@
             android:background="?attr/colorPrimary"
             android:gravity="center"
             app:popupTheme="@style/AppTheme.PopupOverlay"
-            app:title="Rent a car" />
+            app:title="@string/app_name" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
